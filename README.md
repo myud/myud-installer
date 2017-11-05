@@ -1,4 +1,4 @@
-# myud.exe
+# Myud Installer
 
 
 myud/resource/*
