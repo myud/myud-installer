@@ -1,10 +1,9 @@
 # Myud Installer
 
+制作:
 
-myud/resource/*
+01 myud/resource/*
 
+02 Myud.exe
 
-Myud.exe
-
-
-高级  >>  自解压选项  >>  设置  >>  提取后运行: cmd\myud.cmd
+03 高级  >>  自解压选项  >>  设置  >>  提取后运行: cmd\myud.cmd
